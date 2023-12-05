@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MontyHallGame/static/css/main.5797e2ee.chunk.css",
-    "main.js": "/MontyHallGame/static/js/main.20697389.chunk.js",
-    "main.js.map": "/MontyHallGame/static/js/main.20697389.chunk.js.map",
+    "main.js": "/MontyHallGame/static/js/main.6ef19db6.chunk.js",
+    "main.js.map": "/MontyHallGame/static/js/main.6ef19db6.chunk.js.map",
     "runtime-main.js": "/MontyHallGame/static/js/runtime-main.c793d043.js",
     "runtime-main.js.map": "/MontyHallGame/static/js/runtime-main.c793d043.js.map",
     "static/css/2.592b17de.chunk.css": "/MontyHallGame/static/css/2.592b17de.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.81ecac3d.chunk.js": "/MontyHallGame/static/js/3.81ecac3d.chunk.js",
     "static/js/3.81ecac3d.chunk.js.map": "/MontyHallGame/static/js/3.81ecac3d.chunk.js.map",
     "index.html": "/MontyHallGame/index.html",
-    "precache-manifest.96f4c86bbd1288fd0c9a2682c8d7b9c4.js": "/MontyHallGame/precache-manifest.96f4c86bbd1288fd0c9a2682c8d7b9c4.js",
+    "precache-manifest.8b700a95ddff61441db989fc672df28a.js": "/MontyHallGame/precache-manifest.8b700a95ddff61441db989fc672df28a.js",
     "service-worker.js": "/MontyHallGame/service-worker.js",
     "static/css/2.592b17de.chunk.css.map": "/MontyHallGame/static/css/2.592b17de.chunk.css.map",
     "static/css/main.5797e2ee.chunk.css.map": "/MontyHallGame/static/css/main.5797e2ee.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.592b17de.chunk.css",
     "static/js/2.d62783cd.chunk.js",
     "static/css/main.5797e2ee.chunk.css",
-    "static/js/main.20697389.chunk.js"
+    "static/js/main.6ef19db6.chunk.js"
   ]
 }

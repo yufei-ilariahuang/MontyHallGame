@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "031e7b1738af86ad7a6f63b18519272c",
+    "revision": "99583de1471644051518986aecf19b42",
     "url": "/MontyHallGame/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MontyHallGame/static/css/2.592b17de.chunk.css"
   },
   {
-    "revision": "d4350b7087d970148c23",
+    "revision": "6b733f3713655a7fb88c",
     "url": "/MontyHallGame/static/css/main.5797e2ee.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MontyHallGame/static/js/3.81ecac3d.chunk.js"
   },
   {
-    "revision": "d4350b7087d970148c23",
-    "url": "/MontyHallGame/static/js/main.20697389.chunk.js"
+    "revision": "6b733f3713655a7fb88c",
+    "url": "/MontyHallGame/static/js/main.6ef19db6.chunk.js"
   },
   {
     "revision": "4b3df57446d44f12eb4d",
