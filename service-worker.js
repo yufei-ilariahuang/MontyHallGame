@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MontyHallGame/precache-manifest.8b700a95ddff61441db989fc672df28a.js"
+  "/MontyHallGame/precache-manifest.101792b8cf20951d52e25222df48a02f.js"
 );
 
 self.addEventListener('message', (event) => {
