@@ -1,16 +1,30 @@
 {
   "files": {
-    "main.css": "/montyhall/static/css/main.f855e6bc.css",
-    "main.js": "/montyhall/static/js/main.c8b4a013.js",
-    "static/js/787.d4aba7ab.chunk.js": "/montyhall/static/js/787.d4aba7ab.chunk.js",
-    "static/media/logo.svg": "/montyhall/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/montyhall/index.html",
-    "main.f855e6bc.css.map": "/montyhall/static/css/main.f855e6bc.css.map",
-    "main.c8b4a013.js.map": "/montyhall/static/js/main.c8b4a013.js.map",
-    "787.d4aba7ab.chunk.js.map": "/montyhall/static/js/787.d4aba7ab.chunk.js.map"
+    "main.css": "/MontyHallGame/static/css/main.5797e2ee.chunk.css",
+    "main.js": "/MontyHallGame/static/js/main.20697389.chunk.js",
+    "main.js.map": "/MontyHallGame/static/js/main.20697389.chunk.js.map",
+    "runtime-main.js": "/MontyHallGame/static/js/runtime-main.c793d043.js",
+    "runtime-main.js.map": "/MontyHallGame/static/js/runtime-main.c793d043.js.map",
+    "static/css/2.592b17de.chunk.css": "/MontyHallGame/static/css/2.592b17de.chunk.css",
+    "static/js/2.d62783cd.chunk.js": "/MontyHallGame/static/js/2.d62783cd.chunk.js",
+    "static/js/2.d62783cd.chunk.js.map": "/MontyHallGame/static/js/2.d62783cd.chunk.js.map",
+    "static/js/3.81ecac3d.chunk.js": "/MontyHallGame/static/js/3.81ecac3d.chunk.js",
+    "static/js/3.81ecac3d.chunk.js.map": "/MontyHallGame/static/js/3.81ecac3d.chunk.js.map",
+    "index.html": "/MontyHallGame/index.html",
+    "precache-manifest.96f4c86bbd1288fd0c9a2682c8d7b9c4.js": "/MontyHallGame/precache-manifest.96f4c86bbd1288fd0c9a2682c8d7b9c4.js",
+    "service-worker.js": "/MontyHallGame/service-worker.js",
+    "static/css/2.592b17de.chunk.css.map": "/MontyHallGame/static/css/2.592b17de.chunk.css.map",
+    "static/css/main.5797e2ee.chunk.css.map": "/MontyHallGame/static/css/main.5797e2ee.chunk.css.map",
+    "static/js/2.d62783cd.chunk.js.LICENSE.txt": "/MontyHallGame/static/js/2.d62783cd.chunk.js.LICENSE.txt",
+    "static/media/bayes.7e7e3282.jpg": "/MontyHallGame/static/media/bayes.7e7e3282.jpg",
+    "static/media/car_tr.e3b10ac6.png": "/MontyHallGame/static/media/car_tr.e3b10ac6.png",
+    "static/media/goat_tr.aa11c8c2.png": "/MontyHallGame/static/media/goat_tr.aa11c8c2.png"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.c8b4a013.js"
+    "static/js/runtime-main.c793d043.js",
+    "static/css/2.592b17de.chunk.css",
+    "static/js/2.d62783cd.chunk.js",
+    "static/css/main.5797e2ee.chunk.css",
+    "static/js/main.20697389.chunk.js"
   ]
 }
