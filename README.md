@@ -65,7 +65,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME)
+Project Link: [https://github.com/yufei-ilariahuang/MontyHallGame/tree/f06113b6444e38ff1c899a1cd709efd2aed4cd44]
 
 Live Demo: [https://yufei-ilariahuang.github.io/MontyHallGame/](https://yufei-ilariahuang.github.io/MontyHallGame/)
 
